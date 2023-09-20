@@ -1,63 +1,62 @@
-    body{
-        background-color: #FFFDD0;
-        color: rgb(224, 63, 63);
-    }
-    .name{
-        font-family: 'Open Sans', sans-serif;
-        font: bold;
-        text-align: right;
-    }
-    p{
-        font-family: 'Open Sans', sans-serif;
-        font-size: 18px;
-    }
-    h2{
-        font-family: 'Open Sans', sans-serif;
-    }
-    ul, h3{
-        font-family: 'Open Sans', sans-serif;
-        font-size: large;
-        text-align: justify;
-    }
+body{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(209, 173, 173));
+    color: black;    
+}
 
-    .container1{
-        height: 310px;
-        width: 65rem;
-        padding: 10px;
+.name{
+    font-family: 'Open Sans', sans-serif;
+    font: bold;
+    text-align: justify;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+}
+ul, h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    text-align: justify;
+}
 
-    }
+.container1{
+    height: 310px;
+    width: 65rem;
+    padding: 10px;
 
-    .container2{
-        height: 370px;
-        width: 65rem;
-        padding: 10px;
-        padding-top: 0%;
+}
 
-    }
-    .container3{
-        height: 165px;
-        width: 65rem;
-        padding: 10px;
-        padding-top: 0%;
+.container2{
+    height: 250px;
+    width: 65rem;
+    padding: 10px;
+    padding-top: 0%;
 
-    }
-    .container{
-        height: 130px;
-        width: 65rem;
-        padding: 10px;
-        padding-top: 0%;    
-    }
+}
+.container3{
+    height: 165px;
+    width: 65rem;
+    padding: 5px;
 
-    .container1, .container2, .container3, .container{
-        margin: auto;
-        margin-bottom: 1em;
-        border: 3px solid rgb(181, 194, 223);
-        background-color: antiquewhite;
+}
+.container{
+    height: 80px;
+    width: 65rem;
+    padding: 10px;
+    padding-top: 0%;    
+}
 
-    }
-    .xdd{
-        display: block;
-        width: 11%;
-        margin-right: auto;
-        margin-left: 56rem;        
-    }
+.container1, .container2, .container3, .container{
+    margin: auto;
+    margin-bottom: 1em;
+
+}
+.xdd{
+    display: block;
+    width: 11%;
+    margin-right: auto;
+    margin-left: 25px;        
+}
